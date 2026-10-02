@@ -1,4 +1,4 @@
-name: Boas-vindas
+name: Boas-vindas-teste
 
 on:
   workflow_dispatch:
